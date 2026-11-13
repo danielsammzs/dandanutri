@@ -96,7 +96,7 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onSuccess }) => {
           <div className="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-emerald-600 text-white shadow-lg shadow-emerald-600/20 mb-3">
             <Activity className="w-8 h-8" />
           </div>
-          <h1 className="text-3xl font-bold tracking-tight text-slate-800">Feriani Nutri</h1>
+          <h1 className="text-3xl font-bold tracking-tight text-slate-800">Daniel Nutricionistas</h1>
           <p className="text-sm text-slate-500 mt-1 font-medium">Gestão Nutricional Integrada</p>
         </div>
 
